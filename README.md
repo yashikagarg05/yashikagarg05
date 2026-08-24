@@ -66,7 +66,7 @@ Ansible          → Idempotency • Configuration management
 CI/CD            → Pipelines • Artifacts • Rollbacks
 Observability    → Metrics • Logs • Traces • Alerting
 Networking       → Services • Ingress • Network policies
-
+```
 ---
 
 ## 🌱 Currently Exploring
